@@ -1,0 +1,97 @@
+*** Advocate Changelog ***
+
+11 June 2014 - Version 1.3.5
+
+	* tinymce/ - Remove legacy shortcode picker
+	* shortcodes/ - Add new shortcode picker
+	* functions.php - Update shortcode picker
+
+11 August 2013 - 1.3.4
+	
+	* functions/theme-shortcodes.php - Update column style to add attributes
+	* template-contact.php - Remove placeholder text
+	* style.css - Social header icons update
+
+8 July 2013 - 1.3.2
+	
+	* functions/includes/twitter/* - Update Twitter widget
+	* functions/theme-widgets.php - Update Twitter widget
+	* functions.php - Remove old Twitter references
+	* functions/theme-ui.php - Fix gallery filtering issue
+	* index.php - Fix blog title
+
+7 June 2013 - 1.3.1
+	
+	* functions/theme-shortcodes.php - Fixed donation buttons shortcode
+	* javascripts/advocate.js - Fix field label conflicts
+	* style.css - Misc style bug fixes
+	* stylesheets/media.queries.css - Fix responsive event, sponsor, and tag line styles
+	* tinymce/plugin.js - Remove unused shortcode options
+
+1 May 2013 - 1.3
+
+	* stylesheets/media.quries.css - Responsive styles!
+	* functions.php - Enqueue media queries, add gallery thumbnail sizes
+	* functions/theme-post-options.php - Add external URL option for sponsors
+	* functions/theme-shortcodes.php - Add external URL option for sponsors
+
+18 April 2013 - 1.2.3
+
+	* /javascripts/advocate.js - Add fancybox support for gallery videos
+	* /functions/theme-ui.php - Add missing t2t_video() function
+	* /functions/includes/google-fonts.php - Update Google fonts function
+	* /functions/admin-activation.php - Fix warning seen upon theme activation
+
+3 March 2013 - 1.2.2
+
+	* functions/theme-shortcodes.php - Fix contact form shortcode
+	* template-events.php - Fixed calendar issues in IE8
+	* functions/includes/po.php - Update user permissions for taxonomy ordering
+	* functions/includes/to.php - Update user permissions for taxonomy ordering
+	* styles.css - Fixed nav parent active state
+	* header.php - Fixed pinterest icon tooltip
+	* header.php - Fixed iPad clipping issue
+
+18 December 2012 - Version 1.2.1
+
+	* functions.php - Fix bug for custom styles
+
+14 December 2012 - Version 1.2
+
+	* functions.php - Moved stylesheets to wp_register_style
+	* functions/includes/po.php - Update for WordPress 3.5
+	* functions/theme-functions.php - Update for WordPress 3.5
+	* functions/theme-post-options.php - Update for WordPress 3.5
+	* functions/theme-shortcodes.php - Fix tabs and toggle shortcodes
+	* header.php - Moved stylesheets to wp_register_style
+	* javascripts/fullcalendar.js - Updated to version 1.5.4
+	* style.css - Updated tab and toggle shortcode styles
+	* stylesheets/fullcalendar.css - Updated to version 1.5.4
+	* tinymce/config.php - Added toggle shortcode selector
+	* tinymce/plugin.js - Added toggle shortcode selector
+	* tinymce/shortcodes.class.php - Added toggle shortcode selector
+
+23 October 2012 - Version 1.1.1
+
+	* functions/theme-ui.php - Fix gallery filtering issue
+	* functions/includes/google-fonts.php - Fix empty font list in typography options panel
+
+14 August 2012 - Version 1.1
+
+	* javascripts/fullcalendar.js - New file
+	* stylesheets/fullcalendar.css - New file
+	* template-contact.php - Fixed contact form bug
+	* template-events.php - New file
+	* single-t2t_event.php - New FIle
+	* style.css - Added events styles
+	* custom.php - Added page background color option
+	* advocate.js - Bug fixes
+	* functions/javascripts/jquery-ui-timepicker-addon.js - New file
+	* functions/theme-post-types.php
+	* functions/theme-post-options.php - Added page background options and youtube social icon
+	* functions.php
+	* functions/includes/po.php
+	* functions/stylesheets/t2t_admin.css
+	* functions/theme-shortcodes.php
+	* functions/theme-options.php
+	* functions/theme-ui.php

@@ -1,0 +1,869 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advocate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-14 00:58-0800\n"
+"PO-Revision-Date: 2012-08-14 00:59-0800\n"
+"Last-Translator: Two2Twelve Themes <info@two2twelve.com>\n"
+"Language-Team: Two2Twelve Themes <info@two2twelve.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:140
+msgid " Menu"
+msgstr ""
+
+#: functions.php:404
+msgid "Advocate"
+msgstr ""
+
+#: index.php:7
+#: single.php:7
+msgid "The Blog"
+msgstr ""
+
+#: index.php:29
+#: single.php:28
+msgid "by"
+msgstr ""
+
+#: index.php:46
+#: single.php:39
+#: template-events.php:113
+#: template-fullwidth.php:22
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: searchform.php:3
+msgid "Enter a search term..."
+msgstr ""
+
+#: searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: single-t2t_event.php:23
+#: template-events.php:53
+msgid "Venue:"
+msgstr ""
+
+#: single-t2t_event.php:31
+#: template-events.php:61
+msgid "Start:"
+msgstr ""
+
+#: single-t2t_event.php:37
+#: template-events.php:67
+msgid "End:"
+msgstr ""
+
+#: single-t2t_event.php:44
+#: template-events.php:74
+msgid "Time:"
+msgstr ""
+
+#: single-t2t_event.php:46
+#: template-events.php:76
+msgid "All day event"
+msgstr ""
+
+#: single-t2t_event.php:54
+#: template-events.php:82
+msgid "Address:"
+msgstr ""
+
+#: single-t2t_event.php:66
+#: template-events.php:94
+msgid "Cost:"
+msgstr ""
+
+#: template-contact.php:79
+msgid "Thanks, your email has been sent successfully."
+msgstr ""
+
+#: template-contact.php:88
+msgid "Sorry, your message could not be sent because of the following reasons:"
+msgstr ""
+
+#: template-contact.php:96
+#: template-contact.php:97
+msgid "Name"
+msgstr ""
+
+#: template-contact.php:100
+msgid "Email Address"
+msgstr ""
+
+#: template-contact.php:101
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:107
+#: template-contact.php:108
+msgid "Phone"
+msgstr ""
+
+#: template-contact.php:111
+#: template-contact.php:112
+msgid "Subject"
+msgstr ""
+
+#: template-contact.php:116
+#: template-contact.php:117
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:119
+msgid "Send Email &#x2192;"
+msgstr ""
+
+#: template-contact.php:133
+msgid "Location"
+msgstr ""
+
+#: template-gallery.php:25
+msgid "All"
+msgstr ""
+
+#: functions/admin-ui.php:682
+msgid "Theme options have changed, be sure to save changes before leaving this page &#x2192;"
+msgstr ""
+
+#: functions/admin-ui.php:683
+msgid "Save All Changes"
+msgstr ""
+
+#: functions/theme-options.php:23
+msgid "General Settings"
+msgstr ""
+
+#: functions/theme-options.php:28
+#: functions/theme-options.php:397
+msgid "Logo"
+msgstr ""
+
+#: functions/theme-options.php:33
+msgid "Logo Text"
+msgstr ""
+
+#: functions/theme-options.php:37
+msgid "Logo Type"
+msgstr ""
+
+#: functions/theme-options.php:42
+#: functions/theme-options.php:431
+msgid "Tagline"
+msgstr ""
+
+#: functions/theme-options.php:44
+msgid "Enter a tagline for your site."
+msgstr ""
+
+#: functions/theme-options.php:49
+msgid "Show Tagline"
+msgstr ""
+
+#: functions/theme-options.php:51
+msgid "Check this box if you wish to show the tagline."
+msgstr ""
+
+#: functions/theme-options.php:56
+msgid "Custom Favicon"
+msgstr ""
+
+#: functions/theme-options.php:58
+msgid "Upload or type the full URL of your custom favicon image here"
+msgstr ""
+
+#: functions/theme-options.php:63
+msgid "Contact Form Email"
+msgstr ""
+
+#: functions/theme-options.php:65
+msgid "Where to send the contact form messages. Can be overridden when using the contact form shortcode."
+msgstr ""
+
+#: functions/theme-options.php:70
+msgid "Contact Map URL"
+msgstr ""
+
+#: functions/theme-options.php:72
+msgid "Enter the URL to your location from google maps."
+msgstr ""
+
+#: functions/theme-options.php:77
+msgid "Analytics Code"
+msgstr ""
+
+#: functions/theme-options.php:79
+msgid "Paste your Google Analytics or other tracking code here. This will be automatically added to the footer of every page."
+msgstr ""
+
+#: functions/theme-options.php:84
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: functions/theme-options.php:85
+msgid "Enter text shown in the right side of the footer. It can be HTML."
+msgstr ""
+
+#: functions/theme-options.php:94
+msgid "Homepage Options"
+msgstr ""
+
+#: functions/theme-options.php:99
+msgid "Subtitle Text"
+msgstr ""
+
+#: functions/theme-options.php:101
+msgid "Enter a subtitle that will apear to the right of your logo."
+msgstr ""
+
+#: functions/theme-options.php:106
+msgid "About Title"
+msgstr ""
+
+#: functions/theme-options.php:108
+msgid "Enter a title that will appear in the about section beneath the homepage slider."
+msgstr ""
+
+#: functions/theme-options.php:113
+msgid "About Content"
+msgstr ""
+
+#: functions/theme-options.php:122
+msgid "Disable Features"
+msgstr ""
+
+#: functions/theme-options.php:129
+msgid "Number of Features to Display"
+msgstr ""
+
+#: functions/theme-options.php:138
+msgid "Disable Donate Banner"
+msgstr ""
+
+#: functions/theme-options.php:145
+msgid "Donate Banner Icon"
+msgstr ""
+
+#: functions/theme-options.php:152
+msgid "Donate Banner Title"
+msgstr ""
+
+#: functions/theme-options.php:159
+msgid "Donate Banner Sub Title"
+msgstr ""
+
+#: functions/theme-options.php:166
+msgid "Donate Banner Button Text"
+msgstr ""
+
+#: functions/theme-options.php:168
+msgid "Leave blank to disable"
+msgstr ""
+
+#: functions/theme-options.php:173
+msgid "Donate Banner Button URL"
+msgstr ""
+
+#: functions/theme-options.php:183
+msgid "Disable Bottom Content Area"
+msgstr ""
+
+#: functions/theme-options.php:190
+msgid "Bottom Content Area"
+msgstr ""
+
+#: functions/theme-options.php:199
+msgid "Style Settings"
+msgstr ""
+
+#: functions/theme-options.php:204
+msgid "Theme Accent Color"
+msgstr ""
+
+#: functions/theme-options.php:212
+msgid "Page Background Color"
+msgstr ""
+
+#: functions/theme-options.php:236
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/theme-options.php:243
+msgid "Custom Javascript"
+msgstr ""
+
+#: functions/theme-options.php:252
+msgid "Slider Options"
+msgstr ""
+
+#: functions/theme-options.php:256
+msgid "Disable Slider?"
+msgstr ""
+
+#: functions/theme-options.php:257
+msgid "Check this to completely disable the homepage slider. If disabled, only the first Slide will be shown."
+msgstr ""
+
+#: functions/theme-options.php:262
+msgid "Slider Animation"
+msgstr ""
+
+#: functions/theme-options.php:268
+msgid "Autoplay Duration"
+msgstr ""
+
+#: functions/theme-options.php:270
+msgid "The time in milliseconds between slider transitions where 1000 = 1 second. Leave blank to disable autoplay."
+msgstr ""
+
+#: functions/theme-options.php:275
+msgid "Pause Duration"
+msgstr ""
+
+#: functions/theme-options.php:277
+msgid "The time in milliseconds each slide pauses where 1000 = 1 second."
+msgstr ""
+
+#: functions/theme-options.php:389
+msgid "Typography Options"
+msgstr ""
+
+#: functions/theme-options.php:405
+msgid "Logo Variant"
+msgstr ""
+
+#: functions/theme-options.php:411
+msgid "Logo Size"
+msgstr ""
+
+#: functions/theme-options.php:417
+msgid "Logo Color"
+msgstr ""
+
+#: functions/theme-options.php:439
+msgid "Tagline Variant"
+msgstr ""
+
+#: functions/theme-options.php:445
+msgid "Tagline Size"
+msgstr ""
+
+#: functions/theme-options.php:451
+msgid "Tagline Color"
+msgstr ""
+
+#: functions/theme-options.php:465
+msgid "H1 Heading"
+msgstr ""
+
+#: functions/theme-options.php:473
+msgid "H1 Variant"
+msgstr ""
+
+#: functions/theme-options.php:479
+msgid "H1 Size"
+msgstr ""
+
+#: functions/theme-options.php:485
+msgid "H1 Color"
+msgstr ""
+
+#: functions/theme-options.php:499
+msgid "H2 Heading"
+msgstr ""
+
+#: functions/theme-options.php:507
+msgid "H2 Variant"
+msgstr ""
+
+#: functions/theme-options.php:513
+msgid "H2 Size"
+msgstr ""
+
+#: functions/theme-options.php:519
+msgid "H2 Color"
+msgstr ""
+
+#: functions/theme-options.php:533
+msgid "H3 Heading"
+msgstr ""
+
+#: functions/theme-options.php:541
+msgid "H3 Variant"
+msgstr ""
+
+#: functions/theme-options.php:547
+msgid "H3 Size"
+msgstr ""
+
+#: functions/theme-options.php:553
+msgid "H3 Color"
+msgstr ""
+
+#: functions/theme-options.php:566
+msgid "Social Options"
+msgstr ""
+
+#: functions/theme-options.php:721
+msgid "Gallery Options"
+msgstr ""
+
+#: functions/theme-options.php:725
+msgid "The settings below will affect the \"Gallery\" template"
+msgstr ""
+
+#: functions/theme-options.php:727
+msgid "Disable Filter"
+msgstr ""
+
+#: functions/theme-options.php:728
+msgid "Check this to disable the gallery filter."
+msgstr ""
+
+#: functions/theme-options.php:733
+msgid "Gallery Layout"
+msgstr ""
+
+#: functions/theme-options.php:735
+msgid "Choose a layout that will be used on the gallery template."
+msgstr ""
+
+#: functions/theme-options.php:740
+msgid "Disable Lightbox"
+msgstr ""
+
+#: functions/theme-options.php:741
+msgid "Check this to disable the lightbox effect. If disabled, images will link to their respective pages."
+msgstr ""
+
+#: functions/theme-post-types.php:14
+msgid "Galleries"
+msgstr ""
+
+#: functions/theme-post-types.php:15
+#: functions/theme-widgets.php:365
+msgid "Gallery"
+msgstr ""
+
+#: functions/theme-post-types.php:16
+#: functions/theme-post-types.php:17
+#: functions/theme-post-types.php:47
+#: functions/theme-post-types.php:48
+#: functions/theme-post-types.php:78
+#: functions/theme-post-types.php:79
+msgid "Add New Item"
+msgstr ""
+
+#: functions/theme-post-types.php:18
+#: functions/theme-post-types.php:49
+#: functions/theme-post-types.php:80
+msgid "Edit Item"
+msgstr ""
+
+#: functions/theme-post-types.php:19
+#: functions/theme-post-types.php:50
+#: functions/theme-post-types.php:81
+msgid "New Item"
+msgstr ""
+
+#: functions/theme-post-types.php:20
+#: functions/theme-post-types.php:51
+#: functions/theme-post-types.php:82
+msgid "View Item"
+msgstr ""
+
+#: functions/theme-post-types.php:21
+#: functions/theme-post-types.php:52
+#: functions/theme-post-types.php:83
+msgid "Search Items"
+msgstr ""
+
+#: functions/theme-post-types.php:22
+#: functions/theme-post-types.php:53
+#: functions/theme-post-types.php:84
+msgid "No items found"
+msgstr ""
+
+#: functions/theme-post-types.php:23
+#: functions/theme-post-types.php:54
+#: functions/theme-post-types.php:85
+msgid "No items found in Trash"
+msgstr ""
+
+#: functions/theme-post-types.php:34
+msgid "gallery"
+msgstr ""
+
+#: functions/theme-post-types.php:40
+msgid "t2t_gallery"
+msgstr ""
+
+#: functions/theme-post-types.php:45
+msgid "Features"
+msgstr ""
+
+#: functions/theme-post-types.php:46
+msgid "Feature"
+msgstr ""
+
+#: functions/theme-post-types.php:65
+msgid "feature"
+msgstr ""
+
+#: functions/theme-post-types.php:71
+msgid "t2t_feature"
+msgstr ""
+
+#: functions/theme-post-types.php:76
+msgid "Sponsors"
+msgstr ""
+
+#: functions/theme-post-types.php:77
+msgid "Sponsor"
+msgstr ""
+
+#: functions/theme-post-types.php:96
+msgid "sponsor"
+msgstr ""
+
+#: functions/theme-post-types.php:102
+msgid "t2t_sponsor"
+msgstr ""
+
+#: functions/theme-post-types.php:107
+msgid "Events"
+msgstr ""
+
+#: functions/theme-post-types.php:108
+msgid "Event"
+msgstr ""
+
+#: functions/theme-post-types.php:109
+#: functions/theme-post-types.php:110
+msgid "Add New Event"
+msgstr ""
+
+#: functions/theme-post-types.php:111
+msgid "Edit Event"
+msgstr ""
+
+#: functions/theme-post-types.php:112
+msgid "New Event"
+msgstr ""
+
+#: functions/theme-post-types.php:113
+msgid "View Event"
+msgstr ""
+
+#: functions/theme-post-types.php:114
+msgid "Search Events"
+msgstr ""
+
+#: functions/theme-post-types.php:115
+msgid "No events found"
+msgstr ""
+
+#: functions/theme-post-types.php:116
+msgid "No events found in Trash"
+msgstr ""
+
+#: functions/theme-post-types.php:127
+msgid "event"
+msgstr ""
+
+#: functions/theme-post-types.php:133
+msgid "t2t_event"
+msgstr ""
+
+#: functions/theme-post-types.php:147
+msgid "Thumbnail"
+msgstr ""
+
+#: functions/theme-post-types.php:170
+msgid "None"
+msgstr ""
+
+#: functions/theme-shortcodes.php:283
+msgid "Your Name"
+msgstr ""
+
+#: functions/theme-shortcodes.php:294
+msgid "Select a subject..."
+msgstr ""
+
+#: functions/theme-shortcodes.php:301
+msgid "Message / Question"
+msgstr ""
+
+#: functions/theme-shortcodes.php:304
+msgid "Send Message"
+msgstr ""
+
+#: functions/theme-ui.php:59
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/theme-widgets.php:7
+msgid "Display your most recent tweets from Twitter"
+msgstr ""
+
+#: functions/theme-widgets.php:9
+msgid " - Twitter"
+msgstr ""
+
+#: functions/theme-widgets.php:15
+msgid "Recent Tweets"
+msgstr ""
+
+#: functions/theme-widgets.php:63
+#: functions/theme-widgets.php:128
+#: functions/theme-widgets.php:199
+#: functions/theme-widgets.php:273
+#: functions/theme-widgets.php:338
+#: functions/theme-widgets.php:429
+msgid "Title:"
+msgstr ""
+
+#: functions/theme-widgets.php:66
+msgid "Twitter Username:"
+msgstr ""
+
+#: functions/theme-widgets.php:69
+msgid "Number of Tweets to Display:"
+msgstr ""
+
+#: functions/theme-widgets.php:82
+msgid "Display your photos from Flickr"
+msgstr ""
+
+#: functions/theme-widgets.php:84
+msgid " - Flickr"
+msgstr ""
+
+#: functions/theme-widgets.php:90
+msgid "Flickr"
+msgstr ""
+
+#: functions/theme-widgets.php:131
+msgid "Flickr ID:"
+msgstr ""
+
+#: functions/theme-widgets.php:136
+msgid "Number of Photos to Display:"
+msgstr ""
+
+#: functions/theme-widgets.php:149
+msgid "Add rotating reviews to your sidebar"
+msgstr ""
+
+#: functions/theme-widgets.php:151
+msgid " - Reviews"
+msgstr ""
+
+#: functions/theme-widgets.php:157
+msgid "Reviews"
+msgstr ""
+
+#: functions/theme-widgets.php:206
+msgid "Review"
+msgstr ""
+
+#: functions/theme-widgets.php:222
+msgid "Display your location information"
+msgstr ""
+
+#: functions/theme-widgets.php:224
+msgid " - Location"
+msgstr ""
+
+#: functions/theme-widgets.php:279
+msgid "Email:"
+msgstr ""
+
+#: functions/theme-widgets.php:282
+msgid "Phone:"
+msgstr ""
+
+#: functions/theme-widgets.php:285
+msgid "Fax:"
+msgstr ""
+
+#: functions/theme-widgets.php:298
+msgid "Display a YouTube or Vimeo video"
+msgstr ""
+
+#: functions/theme-widgets.php:300
+msgid " - Video"
+msgstr ""
+
+#: functions/theme-widgets.php:306
+msgid "Video"
+msgstr ""
+
+#: functions/theme-widgets.php:341
+msgid "Embed Code:"
+msgstr ""
+
+#: functions/theme-widgets.php:344
+msgid "Short Description:"
+msgstr ""
+
+#: functions/theme-widgets.php:357
+msgid "Display images from your gallery"
+msgstr ""
+
+#: functions/theme-widgets.php:359
+msgid " - Gallery"
+msgstr ""
+
+#: functions/theme-widgets.php:432
+msgid "Album:"
+msgstr ""
+
+#: functions/theme-widgets.php:444
+msgid "Number:"
+msgstr ""
+
+#: functions/theme-widgets.php:448
+msgid "Lightbox:"
+msgstr ""
+
+#: tinymce/config.php:9
+msgid "Button URL"
+msgstr ""
+
+#: tinymce/config.php:10
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: tinymce/config.php:14
+msgid "Button's Style"
+msgstr ""
+
+#: tinymce/config.php:15
+msgid "Select the button's style, ie the buttons colour"
+msgstr ""
+
+#: tinymce/config.php:31
+msgid "Button's Size"
+msgstr ""
+
+#: tinymce/config.php:32
+msgid "Select the button's size"
+msgstr ""
+
+#: tinymce/config.php:41
+msgid "Button's Text"
+msgstr ""
+
+#: tinymce/config.php:42
+msgid "Add the button's text"
+msgstr ""
+
+#: tinymce/config.php:46
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: tinymce/config.php:54
+msgid "Alert's Style"
+msgstr ""
+
+#: tinymce/config.php:55
+msgid "Select the slter's style, ie the alert colour"
+msgstr ""
+
+#: tinymce/config.php:66
+msgid "Alert's Text"
+msgstr ""
+
+#: tinymce/config.php:67
+msgid "Add the alert's text"
+msgstr ""
+
+#: tinymce/config.php:72
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: tinymce/config.php:80
+msgid "Toggle Content Title"
+msgstr ""
+
+#: tinymce/config.php:81
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: tinymce/config.php:87
+msgid "Toggle Content"
+msgstr ""
+
+#: tinymce/config.php:88
+msgid "Add the toggle content."
+msgstr ""
+
+#: tinymce/config.php:93
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: tinymce/config.php:101
+msgid "Tab Titles"
+msgstr ""
+
+#: tinymce/config.php:102
+msgid "Please enter the tab titles here, seperating each by a comma. They must match the tabs that are created below."
+msgstr ""
+
+#: tinymce/config.php:107
+msgid "Insert Column Shortcode"
+msgstr ""
+
+#: tinymce/config.php:114
+msgid "Tab Title"
+msgstr ""
+
+#: tinymce/config.php:115
+msgid "Title of the tab"
+msgstr ""
+
+#: tinymce/config.php:120
+msgid "Tab Content"
+msgstr ""
+
+#: tinymce/config.php:121
+msgid "Add the tabs content"
+msgstr ""
+
+#: tinymce/config.php:125
+msgid "Add Tab"
+msgstr ""
+
+#: tinymce/config.php:133
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: tinymce/config.php:141
+msgid "Column Type"
+msgstr ""
+
+#: tinymce/config.php:142
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: tinymce/config.php:170
+msgid "Column Content"
+msgstr ""
+
+#: tinymce/config.php:171
+msgid "Add the column content."
+msgstr ""
+
+#: tinymce/config.php:175
+msgid "Add Column"
+msgstr ""
+
