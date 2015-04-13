@@ -9,7 +9,7 @@
     <?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Footer Widget Four')) : ?>
     <?php endif; ?>
     <div class="clear"></div>
-    <div class="copy"><p><?php echo get_option('t2t_footer_copyright'); ?></p></div>
+    <div class="copy"><p>&copy;2015 SEPC</p></div>
   </div>
   <?php wp_footer(); ?>
 </footer>

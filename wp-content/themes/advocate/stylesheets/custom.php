@@ -53,7 +53,7 @@ h3 {
 	color: <?php echo get_option('t2t_h3_font_color'); ?>;
 }
 
-section.page_heading { background: <?php echo get_option('t2t_theme_bg_color'); ?>; }
+
 div.events ul li .date,
 ul.events_display li.current a { background: <?php echo get_option('t2t_theme_accent_color'); ?>; }
 .icon,

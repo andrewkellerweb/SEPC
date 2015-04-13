@@ -57,19 +57,13 @@
 <?php if (is_page_template( 'template-home.php' )) { ?>
 <section class="page_heading home">
   <div class="logo container">
-    <?php t2t_logo(); ?>
-    <?php if (get_option('t2t_showtagline') == true) { ?>
-    <span class="tagline"><?php echo get_option( 't2t_tagline' ); ?></span>
-    <?php } ?>
+    <a href="/">SEPC</a>
   </div>
 </section>
 <?php } else { ?>
 <section class="page_heading">
   <div class="logo container"> 
-    <?php t2t_logo(); ?> 
-    <?php if (get_option('t2t_showtagline') == "true") { ?>
-    <span class="tagline"><?php if(get_option('t2t_tagline') != "") { echo get_option('t2t_tagline'); }; ?></span>
-    <?php } ?>
+    <a href="/">SEPC</a>
   </div>
 </section>
 <?php }; ?>
