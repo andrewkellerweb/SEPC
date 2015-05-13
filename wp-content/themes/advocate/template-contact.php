@@ -132,7 +132,7 @@ if(isset($_POST['submitted'])) {
           <h2><?php _e('Location', 'framework'); ?></h2>
           <span class="line"></span> </div>
         <div class="map">
-          <iframe width="438" height="194" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="<?php echo stripslashes(get_option('t2t_contact_map_url')); ?>&amp;output=embed"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764.9530031516161!2d-75.16018487507532!3d39.92322292707182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c60159845af7%3A0xadac4824c174368d!2s2029+S+8th+St%2C+Philadelphia%2C+PA+19148!5e0!3m2!1sen!2sus!4v1431544917035" width="100%" height="300" frameborder="0" style="border:0"></iframe>
         </div>
         <div class="one_third column_last">
           <?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar('Contact Page')) : ?><?php endif; ?>
