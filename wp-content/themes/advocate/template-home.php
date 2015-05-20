@@ -107,7 +107,7 @@ Template Name: Home
 					<?php } ?>
                   </h4>
                 </div>
-                <?php the_excerpt(); ?>
+                <?php the_content(); ?>
               </div>
             </div>
             <?php endwhile; ?>

@@ -172,7 +172,7 @@ if ( function_exists( 'add_theme_support' ) ) {
 	set_post_thumbnail_size( 525, 200, true );
 	add_image_size( 'post-thumb', 62, 62, true );
 	add_image_size( 'gallery-thumb', 470, 332, true );
-	add_image_size( 'sponsor-thumbnail', 127, 50, true );
+	add_image_size( 'sponsor-thumbnail', 200, 100, false );
 }
 
 /*-----------------------------------------------------------------------------------*/
